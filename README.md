@@ -60,14 +60,17 @@ As a passionate and enthusiastic coder specializing in **robotics, IoT, and embe
 
 ## 🏆 Projects
 
-### 🤖 Humanoid
+###   Humanoid
 I'm currently developing a humanoid robot. This project involves integrating robotics, programming, and intelligent systems to create an autonomous machine Link:https://meetaura.me
 
-### 🚗 APT (Autonomous Personal Transit)
+###   APT (Autonomous Personal Transit)
 This project focuses on creating a self-driving personal vehicle, combining my skills in IoT, robotics, and coding to build a futuristic transit solution Link:https://apt-2.vercel.app
 
+###   Bhoomitrace
+As a Full Stack Developer Intern at BhoomiTrace, I contributed to the development of a real-world property technology platform, working across frontend and backend development, API integration, authentication, KYC workflows, and AI-powered features.
+LINK:[https://awp101.vercel.app/](https://www.bhoomitrace.com/)
 
-###  🍿 APT Demo Movie Ticekt Booking Website
+###  APT Demo Movie Ticekt Booking Website
 This is a demo project with ai suggestion integration which suggests you movie ,shows you direct rating also gives details about smart timing according to ur cuurent time as well as it makes sure to show the prices directly , genre spotlight feature , can book tickets which is inegrated with database using MongoDB. LINK:https://awp101.vercel.app/
 
 
